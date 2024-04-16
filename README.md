@@ -8,7 +8,7 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 
 ## Features
 
-- 📦 React.
+- 📦 React!
 
 ## Getting Started
 
